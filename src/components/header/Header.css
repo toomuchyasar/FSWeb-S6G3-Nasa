@@ -1,0 +1,17 @@
+.headerCon {
+    display: flex;
+    background-color: grey;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.headerTitle {
+    font-size: 6rem;
+    
+}
+
+.logo img {
+   
+    width: 10rem;
+}
+

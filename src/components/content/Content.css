@@ -1,0 +1,34 @@
+.page-row{
+    display: flex;
+    padding-top: 40px;
+}
+
+.imageStage img {
+width: 50rem;
+height: auto;
+}
+
+.textStage {
+    padding-left: 1rem;
+    text-align: left;
+}
+
+.title {
+font-size: 5rem;
+font-weight: bold;
+color: aliceblue;
+}
+
+.person {
+font-size: 3rem;
+font-weight: bold;
+}
+
+.exp {
+
+font-size: 1.5rem;
+color: white;
+font-weight: bold;
+}
+
+
